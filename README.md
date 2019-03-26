@@ -1,4 +1,4 @@
 # TimeMachiNet
  By Anup Deb and Steve Kim
  
- This is the repository containing the MIE324 project at the University of Toronto. The high-level goal of this project is to visualize the age progression and regression of a person's face using a Generative Adversarial Autoencoder.
+TimeMachiNet aims to predict the progression and regression of a person’s face as a function of age, using a machine learning architecture known as a Conditional Adversarial Autoencoder. This application can be used in multiple applications where an age transformation is needed, such as in facial prediction of wanted people, age-invariant verification, recreational use (personal curiosity), or even assisting in the search for missing people. 
